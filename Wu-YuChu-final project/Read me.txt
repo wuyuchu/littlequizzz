@@ -1,0 +1,20 @@
+For this quiz, I divide it into five slides (intro, America section, Europe section, Asia section, Africa section and ending).
+I use Illustrator to make the images and use them as the background picture for those four countries sections.
+I also use photoshop to do the adjustment on every flags because I want to make their colors blend into the background image.
+
+Intro: I use the "globe image" to replace the character "o", which I think it's pretty cute :))
+
+America section: I separate country flags and names into two sides. When the users start to do the test, the results will appear in the circle.
+
+Europe section: Same as America section, same idea but different layout.
+
+Asia section: For Asia section, when the users start to do the test, the results will appear with the conversation bubble (which is next to the astronaut). It will look like that he's talking to the users.
+
+Africa section: Same as previous sections.
+
+Ending: I create the ending page, to let users to calculate how many wrongs do they get. So when they click the "click image", the result box will appear.
+
+
+The design: I want to make the page looks neat and colorful. So I use different colors to create the background image. And I also try many different kinds of font-style to look for the style which suits better.
+
+What I want to improve: I want to use Scrollmagic tricks and fancybox in this quiz. For example, ideally I want to make the div fixed in the right top corner, so when the users scroll the page, it will keep staying in the right top corner. In this way, users will be able to know which section are they in. I also want to create the effects of section wipes. So when the users scroll the page, the latter section will scroll over the previous section. In addition, I also want to make the fancybox. So when the users click something, the fancybox will pop up. I think it will be much cooler than just the div appearing on the page.

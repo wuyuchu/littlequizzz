@@ -1,0 +1,12 @@
+var europe = [{"country":"England","code2":"EN","code2lower":"en"},
+{"country":"Germany","code2":"GE","code2lower":"ge"},
+{"country":"Austria","code2":"AU","code2lower":"au"},
+{"country":"Spain","code2":"SP","code2lower":"sp"},
+{"country":"Portugal","code2":"PO","code2lower":"po"},
+{"country":"France","code2":"FR","code2lower":"fr"},
+{"country":"Netherlands","code2":"NE","code2lower":"ne"},
+{"country":"Belgium","code2":"BE","code2lower":"be"},
+{"country":"Italy","code2":"IT","code2lower":"it"},
+{"country":"Denmark","code2":"DE","code2lower":"de"},
+{"country":"Switzerland","code2":"SW","code2lower":"sw"},
+{"country":"Greece","code2":"GR","code2lower":"gr"}]

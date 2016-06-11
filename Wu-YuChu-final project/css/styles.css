@@ -1,0 +1,392 @@
+/* style.css 
+   Author: 
+   Date: 
+*/
+
+/*page 1*/
+#intro {
+    width: 1330px;
+    height: 670px;
+    background-color: #e0e595;
+    position: relative;
+}
+
+h1 {
+	color: #7da35e;
+	font-family: 'Amatic SC', cursive;
+	font-weight: 700;
+	font-size: 70pt;
+	position: absolute;
+	top: 150px;
+	left: 300px;
+}
+
+h2 {
+    color: #7da35e;
+	font-family: 'Amatic SC', cursive;
+	font-weight: 400;
+	font-size: 50pt;
+	position: absolute;
+	top: 270px;
+	left: 400px;
+}
+
+#globe {
+    width: 52px;
+    position: absolute;
+	top: 250px;
+	left: 590px;
+}
+
+/*page 2*/
+#america {
+    width: 1462px;
+    height: 917px;
+    position: absolute;
+    top: 650px;  
+    left: -57px;  
+}
+
+#amf {
+    width: 450px;
+    height: 550px;
+    padding: 10px;
+    overflow: hidden;
+    position: absolute;
+    top: 850px;
+    left: 55px;
+}
+
+.amflag {
+    width: 140px;
+    height: 110px;
+    float: left;
+}
+
+.amflag img {
+    width: 120px;
+    float: left;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+#amc {
+    width: 450px;
+    height: 550px;
+    padding: 5px;
+    float: left;
+    position: absolute;
+    top: 760px;
+    right: -80px; 
+}
+
+.amcountry {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
+
+#amr1 {
+    width: 180px;
+    height: 118px;
+    font-family: 'Give You Glory', cursive;
+    position: absolute;
+    top: 1030px;
+    left: 585px;
+}
+
+#amr2 {
+    width: 180px;
+    height: 118px;
+    font-family: 'Give You Glory', cursive;
+    position: absolute;
+    top: 1090px;
+    left: 585px;
+}
+
+
+/*page 3*/
+#europe {
+    width: 1330px;
+    height: 725px;
+    background-color: pink;
+    position: absolute;
+    top: 1490px;  
+}
+
+#logo {
+    width: 250px;
+    position: absolute;
+    top: 30px;
+    left: 550px;
+}
+
+#euf {
+    width: 700px;
+    height: 350px;
+    padding: 10px;
+    overflow: hidden;
+    position: absolute;
+    top: 150px;
+    left: 350px;
+}
+
+.euflag {
+    width: 149px;
+    height: 110px;
+    float: left;
+}
+
+.euflag img {
+    width: 120px;
+    margin: 15px;
+    border-radius: 35px;
+}
+
+#euc {
+    background-color: white;
+    border: 5px solid black;
+    width: 1100px;
+    height: 80px;
+    padding: 5px;
+    float: left;
+    position: absolute;
+    top: 550px;
+    left: 130px;
+}
+
+.eucountry {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+    font-size: 15px;
+    float: left;
+}
+
+#eur1 {
+    width: 300px;
+    height: 118px;
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+    position: absolute;
+    top: 50px;
+    left: 280px;
+}
+
+#eur2 {
+    width: 300px;
+    height: 118px;
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+    position: absolute;
+    top: 55px;
+    right: 200px;
+}
+
+
+/*page 4*/
+#asia {
+    width: 1370px;
+    height: 977px;
+    position: absolute;
+    top: 2204px; 
+    left: -9px; 
+}
+
+#asf {
+    width: 500px;
+    height: 325px;
+    padding: 10px;
+    overflow: hidden;
+    position: absolute;
+    top: 2310px;
+    right: 190px;
+}
+
+.asflag {
+    width: 149px;
+    height: 110px;
+    float: left;
+}
+
+.asflag img {
+    width: 100px;
+    float: left;
+    margin: 15px;
+    border-radius: 200px;
+}
+
+#asc {
+    width: 300px;
+    height: 250px;
+    padding: 5px;
+    float: left;
+    position: absolute;
+    top: 2330px;
+    left: 330px;
+}
+
+.ascountry {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 18px;
+    padding: 5px;
+    color: white;
+    float: left;
+}
+
+#bubble {
+    width: 300px;
+    position: absolute;
+    top: 2765px; 
+    right: 285px; 
+    display: none;
+}
+
+#asr1 {
+    width: 300px;
+    height: 118px;
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+    position: absolute;
+    top: 2850px;
+    right: 260px;
+}
+
+#asr2 {
+    width: 300px;
+    height: 118px;
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+    position: absolute;
+    top: 2885px;
+    right: 240px;
+}
+
+/*page 5*/
+#africa {
+    width: 1415px;
+    height: 1200px;
+    position: absolute;
+    top: 3135px; 
+    left: -30px; 
+}
+
+#af {
+    width: 700px;
+    height: 250px;
+    padding: 10px;
+    overflow: hidden;
+    position: absolute;
+    top: 3350px;
+    left: 220px;
+}
+
+.afflag {
+    width: 149px;
+    height: 110px;
+    float: left;
+}
+
+.afflag img {
+    width: 100px;
+    float: left;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+#ac {
+    width: 280px;
+    height: 380px;
+    padding: 5px;
+    float: left;
+    position: absolute;
+    top: 3760px;
+    right: 440px;
+}
+
+.afcountry {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    float: left;
+}
+
+#afr1 {
+    width: 300px;
+    height: 118px;
+    font-family: 'Amatic SC', cursive;
+	font-weight: 400;
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 3800px;
+    left: 180px;
+}
+
+#afr2 {
+    width: 300px;
+    height: 118px;
+    font-family: 'Amatic SC', cursive;
+	font-weight: 400;
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 3850px;
+    left: 170px;
+}
+
+/*page 6*/
+#end {
+    width: 1330px;
+    height: 500px;
+    background-color: #e0e595;
+    position: absolute;
+    top: 4295px;
+}
+
+#txt {
+    position: absolute;
+    top: 50px;
+    left: 100px;    
+}
+
+#click {
+    width: 50px;
+    position: absolute;
+    top: 200px;
+    right: 620px;
+}
+
+#result {
+    display: none; 
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+    border: 8px solid white;
+    border-radius: 15px;
+    position: absolute;
+    top: 150px;
+    right: 150px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
